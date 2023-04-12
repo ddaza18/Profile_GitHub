@@ -4,7 +4,7 @@
     <img src ="https://github-readme-streak-stats.herokuapp.com?user=ddaza18&theme=darcula&hide_border=true&background=FFFFFF00">
    <br>
 </p>
-:package: projects ddaza18
+<h1>:package: projects ddaza18</h1>
 <div align="left">
 <table>
   <tr>
@@ -33,7 +33,7 @@
   
 </div>
 
-:package: Other projects ddaza18
+<h1>:package: Other projects ddaza18</h1>
 <div align="left">
   
  - Soon
