@@ -4,6 +4,18 @@
     <img src ="https://github-readme-streak-stats.herokuapp.com?user=ddaza18&theme=darcula&hide_border=true&background=FFFFFF00">
    <br>
 </p>
+<summary>My learnings</summary>
+<div>
+<h5>Languages Used</h5>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-White?style=for-the-badge&color=informational&logo=python&logoColor=yellow"></a>
+  <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-White?style=for-the-badge&color=critical&logo=mysql&logoColor=black"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/Javascript-White?style=for-the-      badge&color=black&logo=javascript&logoColor=yellow"></a>
+  <a href="https://www.java.com/es/"><img src="https://img.shields.io/badge/Java-White?style=for-the-badge&color=red&logo=java&logoColor=blue"></a>
+    <a href="https://www.Nodejs.com/es/"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></a>
+    <a href="https://www.Express.com/es/"><img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"></a>
+    <a href="https://www.postgresql.com/es/"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a>
+    <a href="https://www.git.com/es/"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a>
+  <br>
 <h1>:package: projects ddaza18</h1>
 <div align="left">
 <table>
