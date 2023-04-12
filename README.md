@@ -12,8 +12,22 @@
     <th>Description</th>
   </tr>
   <tr>
-    <td><a href=""> Api_Casos </a> </td>
+    <td><a href="https://github.com/ddaza18/CASOS_EMP.git"> Api_Casos </a> </td>
     <td>Api de creacion y modificacion de casos - Integra mas funcionalidades -> ADMIN</td>
+  </tr>
+</table>
+  
+</div>
+
+<div align="left">
+<table>
+  <tr>
+    <th>Project title</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/ddaza18/ChatLine.git"> ChatLinr NodeJs - Socket.io </a> </td>
+    <td>ChatLine desarrollado con NodeJS y Socket.io -> chat en tiempo real</td>
   </tr>
 </table>
   
