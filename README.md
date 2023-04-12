@@ -14,6 +14,8 @@
     <a href="https://www.Express.com/es/"><img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"></a>
     <a href="https://www.postgresql.com/es/"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a>
     <a href="https://www.git.com/es/"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a>
+    <a href="https://www.spring.com/es/"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></a>
+    <a href="https://www.jquery.com/es/"><img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"></a>
   <br>
 <h1>:package: projects ddaza18</h1>
 <div align="left">
