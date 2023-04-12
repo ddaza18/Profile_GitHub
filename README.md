@@ -5,5 +5,5 @@
    <br>
 </p>
 
-<h1>Feel free to contact me via:</h1>
-[![Gmail Badge](https://img.shields.io/badge/-tu.ddaza681@gmail.com-d14836 style=flat&logo=Gmail&logoColor=white&link=mailto:mailto:tu.ddaza681@gmail.com (mailto:tu.ddaza681@gmail.com)
+<h1 style="background-color: orange;">Feel free to contact me via:</h1>
+
