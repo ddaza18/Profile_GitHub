@@ -4,9 +4,8 @@
     <img src ="https://github-readme-streak-stats.herokuapp.com?user=ddaza18&theme=darcula&hide_border=true&background=FFFFFF00">
    <br>
 </p>
-<summary>My learnings</summary>
+<h2>My learnings</h2>
 <div>
-<h5>Languages Used</h5>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-White?style=for-the-badge&color=informational&logo=python&logoColor=yellow"></a>
   <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-White?style=for-the-badge&color=critical&logo=mysql&logoColor=black"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/Javascript-White?style=for-the-      badge&color=black&logo=javascript&logoColor=yellow"></a>
