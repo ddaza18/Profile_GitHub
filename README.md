@@ -32,6 +32,13 @@
 </table>
   
 </div>
+
+# :package: Other projects ddaza18
+<div align="center">
+  
+ - Soon
+ 
+</div>
   
 <br>
 <h1 style="background-color: orange;">Feel free to contact me via:</h1>
