@@ -42,4 +42,7 @@
   
 <br>
 <h1 style="background-color: orange;">Feel free to contact me via:</h1>
+<div>
+<a href="mailto:user_ddaza681@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-ddaza681-t?style=for-the-badge&logo=gmail&color=white&logoColor=green&labelColor=black"></a><br>
+</div>
 
