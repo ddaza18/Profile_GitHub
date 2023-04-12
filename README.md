@@ -34,7 +34,7 @@
 </div>
 
 # :package: Other projects ddaza18
-<div align="center">
+<div align="left">
   
  - Soon
  
